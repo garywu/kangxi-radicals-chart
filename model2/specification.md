@@ -7,6 +7,7 @@ The Model 2 chart shall have the following features:
   + Printed on 11 x 17 (Tabloid) paper, as specified by the ANSI B specification.
   + Each controlled item in this specification is **0.5 inches wide and 1.0 inches tall.**
   + There is a minimum **0.05 inches spacing** between each item.
+  + All vertical and horizontal offsets originate from the top left corner of printable area.
   + Each section, grouped by stroke count, must be begin with a header item.
   + Released to the public domain with the [CC0 License][cc_publicdomain] (with `M2-CC0` markings).
   + (Optional) section showing Kangxi radical variants.
