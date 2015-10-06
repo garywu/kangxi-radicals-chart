@@ -1,4 +1,4 @@
-## 
+## Model 2 Specification
 
 The following specification is designed for quality control 
 of a chart. This chart is called the **214 Kangxi Radicals Chart with Hanyu Pinyin (Model 2).**
