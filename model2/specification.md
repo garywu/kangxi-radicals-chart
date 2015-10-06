@@ -15,7 +15,7 @@ The Model 2 chart shall have the following features:
 
 ## Items Types
 
-There are 231 controlled items in this 214 Kangxi Radicals Chart.
+There are 231 controlled items in this chart.
 
 **This chart contains two types of items: headers and data.** There are 17 header items. The header items indicate the
 sections by stroke count. There are 214 data items.  The data items contain the Kangxi radicals, the radical numbers,
