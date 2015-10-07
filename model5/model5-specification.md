@@ -4,7 +4,7 @@ The following specification is designed for quality control
 of a chart. This chart is called the **214 Kangxi Radicals Chart (Model 5).**
 
 The Model 5 chart shall have the following features:
-  + Printed on 11 x 17 (Tabloid) paper, as specified by the ANSI B specification.
+  + Printed on 11 x 17 (Tabloid) paper, as specified by the [ANSI B][goog_ansi_b] specification.
   + Each controlled item in this specification is **0.75 inches wide and 0.75 inches tall.**
   + There is a minimum **0.05 inches spacing** between each item.
   + All vertical and horizontal offsets originate from the top left corner of printable area.
@@ -270,3 +270,4 @@ The following table of properties specifies the content and location of each con
 
 
 [cc_publicdomain]: https://creativecommons.org/publicdomain/zero/1.0/
+[goog_ansi_b]: https://www.google.com/search?q=ANSI%20B%20paper%20size
