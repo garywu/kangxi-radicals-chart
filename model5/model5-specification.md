@@ -267,3 +267,6 @@ The following table of properties specifies the content and location of each con
 |  **230** | **--** | **--** | **HEADER** | **12** | **10** | **7.25** | **8.85** | **17画** |
 |  **231** | **214** | 17 | DATA | 12 | 11 | 8.05 | 8.85 | 龠 |
 
+
+
+[cc_publicdomain]: https://creativecommons.org/publicdomain/zero/1.0/
