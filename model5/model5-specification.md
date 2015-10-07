@@ -1,3 +1,35 @@
+## Model 5 Specification
+
+The following specification is designed for quality control 
+of a chart. This chart is called the **214 Kangxi Radicals Chart with Hanyu Pinyin (Model 5).**
+
+The Model 5 chart shall have the following features:
+  + Printed on 11 x 17 (Tabloid) paper, as specified by the ANSI B specification.
+  + Each controlled item in this specification is **0.75 inches wide and 0.75 inches tall.**
+  + There is a minimum **0.05 inches spacing** between each item.
+  + All vertical and horizontal offsets originate from the top left corner of printable area.
+  + Each section, grouped by stroke count, must be begin with a header item.
+  + Released to the public domain with the [CC0 License][cc_publicdomain] (with `M5-CC0` markings).
+  + (Optional) section showing Kangxi radical variants.
+  
+
+## Items Types
+
+There are 231 controlled items in this chart. 
+
+**This chart contains two types of items: headers and data.** 
+  + There are 17 header items. The header items indicate the sections by stroke count. 
+  + There are 214 data items. The data items contain the Kangxi radicals, the radical numbers,and radical pinyin.
+
+For the header items, each record simply displays the row and columns numbers, 
+the vertical and horizontal offsets, and the expected content.
+
+For the data items, each record shows the Kangxi radical number, the number of strokes, 
+the item row, the item column, the vertical and horizontal offsets, 
+and the expected content.
+
+The following table of properties specifies the content and location of each controlled item.
+
 
 ## Table of Properties
 
